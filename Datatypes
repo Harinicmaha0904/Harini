@@ -1,0 +1,27 @@
+package secondJava;
+
+public class Harini {
+
+	public static void main(String[] args) {
+		
+		byte b= 127;
+		short s= 32000;
+		int ticketPrice= 900;
+		long l= 9L;
+		float pi= 3.14159f;
+		double weight= 19.6895788713456789;
+		boolean paid= true;
+		char c= 't';
+		
+		System.out.println(b);
+		System.out.println(s);
+		System.out.println(ticketPrice);
+		System.out.println(l);
+		System.out.println(pi);
+		System.out.println(weight);
+		System.out.println(paid);
+		System.out.println(c);
+		
+	}
+
+}
